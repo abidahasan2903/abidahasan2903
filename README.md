@@ -1,44 +1,62 @@
-![Software Engineering Student](https://scontent.fdac187-1.fna.fbcdn.net/v/t39.30808-6/784659532_122120568855365013_789569074235473286_n.jpg?stp=dst-jpg_tt6&cstp=mx1983x793&ctp=s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=aY3dSIEQAv4Q7kNvwHcauqx&_nc_oc=AdojRWk48JHMPuRlcRxJ6zKCD7MQZJxQLNWk-39LB1KlG1X9DYuQaT8T4fqenAYtxsE&_nc_zt=23&_nc_ht=scontent.fdac187-1.fna&_nc_gid=-8Rt5lzK1JiSfrqzadPBvA&_nc_ss=7b2a8&oh=00_AQHMNd730A8SNvWq8bjTIKNJB01S2gqKNhT2dkGQcLUjog&oe=6A93A539)
+<h1 align="center">Hi, I'm Abid Ahasan 👋</h1>
+<p align="center">
+  <strong>Software Engineering Student · Android Developer · Lifelong Learner</strong><br />
+  Narsingdi, Dhaka, Bangladesh
+</p>
 
-### Hi there 👋, I'm Abid Ahasan
-#### Software Engineering Student
+<p align="center">
+  <a href="https://github.com/abidahasan2903"><img src="https://img.shields.io/badge/GitHub-abidahasan2903-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="mailto:abidahasan5002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abid" /></a>
+</p>
 
-Hi! I'm Abid Ahasan, a Software Engineering student from Narsingdi, Dhaka, Bangladesh.
+---
 
-💻 I'm passionate about Software Development, Programming, Robotics, and Cyber Security. I enjoy turning ideas into practical projects and continuously improving my problem-solving skills.
+## 👋 About Me
 
-🚀 What I Work With
+I'm a Software Engineering student from Bangladesh who enjoys learning by building useful software. My interests include Android development, programming, robotics, cybersecurity, and problem solving. I like turning ideas into practical apps and improving them step by step.
 
-- C
-- C++
-- Java
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Git & GitHub
+- 🎓 Studying Software Engineering
+- 📍 Based in Narsingdi, Dhaka, Bangladesh
+- 📱 Building Android applications with Kotlin and Jetpack Compose
+- 🌱 Growing my skills in software development and computer science
+- 🤝 Open to thoughtful collaboration and learning opportunities
 
-🤖 Interests
+## 🛠️ Technologies & Tools
 
-- Software Development
-- Robotics & Automation
-- Cyber Security
-- Competitive Programming
-- Learning new technologies
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-I believe in learning by building and improving a little every day.
+## 🚀 Featured Projects
 
-«Code. Learn. Build. Repeat. 🚀»
+### [STUDORA](https://github.com/abidahasan2903/STUDORA)
+An offline-first Android student companion for study planning, notes, tasks, schedules, and everyday student tools.
 
-Skills: C / C++ / Java / HTML 
+### [CALCORA](https://github.com/abidahasan2903/CALCORA)
+An all-in-one offline Android calculator with science, commerce, arts, student, and everyday calculation tools.
 
-- 🔭 I’m currently working on Bank Management System 
-- 🌱 I’m currently learning Java Programming 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about C ,C++ & Java Programming 
-- 📫 How to reach me: abidahasan5002@gmail.com 
-- 😄 Pronouns: he/him 
+## 📈 Contribution Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abidahasan2903/abidahasan2903/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abidahasan2903/abidahasan2903/output/github-snake.svg" />
+  <img alt="GitHub contribution activity animation" src="https://raw.githubusercontent.com/abidahasan2903/abidahasan2903/output/github-snake.svg" />
+</picture>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abidahasan2903)  
+## 🤝 Interests & Collaboration
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+I'm interested in Android development, software design, robotics, cybersecurity, and competitive programming. If you're working on a practical project or learning-focused collaboration, feel free to reach out.
 
+## 📬 Get in Touch
+
+- **Email:** [abidahasan5002@gmail.com](mailto:abidahasan5002@gmail.com)
+- **GitHub:** [@abidahasan2903](https://github.com/abidahasan2903)
+
+<p align="center"><em>Code. Learn. Build. Repeat. 🚀</em></p>

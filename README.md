@@ -28,7 +28,7 @@ Explore my background, projects, skills, CV section, and direct contact form:
 
 [**View CV**](https://abidahasan2903.github.io/#cv) · [**Download CV**](https://abidahasan2903.github.io/#cv)
 
-> The CV is available on the portfolio at `assets/Abid_Ahasan_CV.pdf`. Use the View/Download buttons on the site.
+> The CV is available on the portfolio at `public/assets/Abid_Ahasan_CV.pdf`. Use the View/Download buttons on the site.
 
 ## 🎓 Education
 

@@ -4,8 +4,8 @@
 
 **Software Engineering Student · Mobile & Web App Developer · Tech Enthusiast**
 
-<a href="https://abidahasan2903.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-Explore%20my%20work-9EF56B?style=for-the-badge&logo=githubpages&logoColor=101727" alt="Visit portfolio" /></a>
-<a href="mailto:abidahasan5002@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-59DCEB?style=for-the-badge&logo=gmail&logoColor=101727" alt="Email" /></a>
+<a href="https://abidahasan2903.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-Explore%20my%20work-287B67?style=for-the-badge&logo=githubpages&logoColor=ffffff" alt="Visit portfolio" /></a>
+<a href="mailto:abidahasan5002@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-4383A7?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
 <a href="https://github.com/abidahasan2903"><img src="https://img.shields.io/badge/GitHub-abidahasan2903-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 
 </div>
@@ -15,14 +15,14 @@
 I’m a Software Engineering student and mobile and web app developer from Bangladesh. I enjoy learning by building useful apps and exploring technology across mobile, web, desktop, and core programming.
 
 - 📍 Narsingdi, Dhaka, Bangladesh
-- 🎓 Computer Science & Engineering student
+- 🎓 Software Engineering student
 - 📱 Creator of **STUDORA** and **CALCORA**
 - 🌱 Interested in Android, web development, robotics, cybersecurity, and software design
 - 🤝 Open to thoughtful collaboration and learning opportunities
 
 ## 🌐 Interactive Portfolio
 
-Explore my background, projects, skills, CV section, and direct contact form:
+Explore my background, projects, skills, education, CV, and direct contact form:
 
 ### [Visit Abid’s Portfolio →](https://abidahasan2903.github.io/)
 
@@ -32,7 +32,9 @@ Explore my background, projects, skills, CV section, and direct contact form:
 
 ## 🎓 Education
 
-**Computer Science & Engineering** · Student
+- **Software Engineering** · Current studies
+- **HSC** · Narsingdi Science College · 2024 · GPA 5.00
+- **SSC** · Pachgaon High School · 2022 · GPA 5.00
 
 ## 🛠️ Technologies & Tools
 
@@ -74,7 +76,7 @@ I’m interested in building practical software, exploring mobile and web experi
 ## 📬 Get in Touch
 
 <p align="center">
-  <a href="https://github.com/abidahasan2903"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" /></a>
+  <a href="https://github.com/abidahasan2903"><img src="https://cdn.simpleicons.org/github/263347" width="42" height="42" alt="GitHub" /></a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/14wQCfYDeE4/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook" /></a>
   &nbsp;&nbsp;

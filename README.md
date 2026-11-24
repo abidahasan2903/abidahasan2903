@@ -2,7 +2,7 @@
 
 # Abid Ahasan
 
-**Computer Science & Engineering Student · Mobile & Web App Developer · Tech Enthusiast**
+**Software Engineering Student · Mobile & Web App Developer · Tech Enthusiast**
 
 <a href="https://abidahasan2903.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-Explore%20my%20work-9EF56B?style=for-the-badge&logo=githubpages&logoColor=101727" alt="Visit portfolio" /></a>
 <a href="mailto:abidahasan5002@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-59DCEB?style=for-the-badge&logo=gmail&logoColor=101727" alt="Email" /></a>
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I’m a Computer Science & Engineering student and mobile and web app developer from Bangladesh. I enjoy learning by building useful apps and exploring technology across mobile, web, desktop, and core programming.
+I’m a Software Engineering student and mobile and web app developer from Bangladesh. I enjoy learning by building useful apps and exploring technology across mobile, web, desktop, and core programming.
 
 - 📍 Narsingdi, Dhaka, Bangladesh
 - 🎓 Computer Science & Engineering student
